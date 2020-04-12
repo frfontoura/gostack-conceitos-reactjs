@@ -14,7 +14,7 @@ Esse é o front-end desenvolvido em ReactJs que se conecta ao back-end [gostack-
 1 - Fazer o gitclone:
 
 ```
-git clone https://github.com/frfontoura/gostack-conceitos-node
+git clone https://github.com/frfontoura/gostack-conceitos-reactjs
 ```
 
 2 - Instalar as dependências:
